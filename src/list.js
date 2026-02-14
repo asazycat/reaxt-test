@@ -1,0 +1,1 @@
+export const list = [{code: 'UK', name:'United Kingdom'},{code: 'JP', name: 'Japan'}, {code: 'USA', name: 'United States'}]
